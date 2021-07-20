@@ -45,7 +45,6 @@ Notre principal objectif est de rassembler, au travers de ces journées, les deu
 - Function as a Serice (FaaS model)
 - Cloud et Calcul scientifique
 
-
 Les rencontres se dérouleront **les 25 et 26 novembre 2021 à Brest**, à l'ENSTA Bretagne. Les repas seront pris en charge par l’action. L’inscription est gratuite mais obligatoire.
 
 Nous demandons aux personnes intéressées de faire parvenir à l’équipe d’organisation un résumé de leur présentation, via ce [lien](/s/submission). Le choix de la langue (français ou anglais) est laissé à la discrétion de l’orateur (**présentation de 15mn + 5mn de questions**). 
@@ -56,7 +55,7 @@ Nous demandons aux personnes intéressées de faire parvenir à l’équipe d’
         <div class="card-body">
             <h5 class="card-title">Date limite pour la soumission</h5>
         <!--    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>-->
-            <p class="card-text">L’échéance de soumission est fixée au <b>26 Septembre 2021.</b></p>
+            <p class="card-text">L’échéance de soumission est fixée au <b>24 Septembre 2021.</b></p>
             <a href="/s/submission" class="card-link">Page de soumission</a><BR>
             <a href="/s/submission" class="card-link">Page d'inscription aux journées</a>
         </div>
