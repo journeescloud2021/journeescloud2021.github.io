@@ -40,6 +40,10 @@ Notre principal objectif est de rassembler, au travers de ces journées, les deu
 - Évaluation des performances
 - Simulation
 - Modèles économiques
+- Cloud-Native application development model
+- Cloud et configuration logicielle
+- Function as a Serice (FaaS model)
+- Cloud et Calcul scientifique
 
 
 Les rencontres se dérouleront **les 25 et 26 novembre 2021 à Brest**, à l'ENSTA Bretagne. Les repas seront pris en charge par l’action. L’inscription est gratuite mais obligatoire.
