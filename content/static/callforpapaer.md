@@ -48,7 +48,7 @@ Notre principal objectif est de rassembler, au travers de ces journées, les deu
 
 Les rencontres se dérouleront **les 25 et 26 novembre 2021 à Brest**, à l'ENSTA Bretagne. Les repas seront pris en charge par l’action. L’inscription est gratuite mais obligatoire.
 
-Nous demandons aux personnes intéressées de faire parvenir à l’équipe d’organisation un résumé de leur présentation, via ce [lien](). Le choix de la langue (français ou anglais) est laissé à la discrétion de l’orateur (**présentation de 15mn + 5mn de questions**). 
+Nous demandons aux personnes intéressées de faire parvenir à l’équipe d’organisation un résumé de leur présentation, via ce [lien](/s/submission). Le choix de la langue (français ou anglais) est laissé à la discrétion de l’orateur (**présentation de 15mn + 5mn de questions**). 
 
 <div class="row">
   <div class="col-sm-6">
