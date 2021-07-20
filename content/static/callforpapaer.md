@@ -46,22 +46,27 @@ Les rencontres se dérouleront **les 25 et 26 novembre 2021 à Brest**, à l'ENS
 
 Nous demandons aux personnes intéressées de faire parvenir à l’équipe d’organisation un résumé de leur présentation, via ce [lien](). Le choix de la langue (français ou anglais) est laissé à la discrétion de l’orateur (**présentation de 15mn + 5mn de questions**). 
 
-
-<div class="card" style="width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title">Date pour la soumission</h5>
-<!--    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>-->
-    <p class="card-text">L’échéance de soumission est fixée au 26 Septembre 2021.</p>
-    <a href="/s/submission" class="card-link">Page de soumission</a>
-    <a href="/s/submission" class="card-link">Page d'inscription aux journées</a>
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Date limite pour la soumission</h5>
+        <!--    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>-->
+            <p class="card-text">L’échéance de soumission est fixée au <b>26 Septembre 2021.</b></p>
+            <a href="/s/submission" class="card-link">Page de soumission</a><BR>
+            <a href="/s/submission" class="card-link">Page d'inscription aux journées</a>
+        </div>
+    </div>
   </div>
+  <div class="col-sm-6">
+        <div class="card" >
+        <div class="card-body">
+            <h5 class="card-title">Organisateurs</h5>
+        <!--    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>-->
+            <p class="card-text">Jalil Boukhobza <a href="mailto:boukhobza@univ-brest.fr">boukhobza@univ-brest.fr</a><BR>
+            Yassine HADJADJ-AOUL <a href="mailto:yassine.hadjadj-aoul@irisa.fr">yassine.hadjadj-aoul@irisa.fr</a><BR>
+            Olivier Barais <a href="mailto:barais@irisa.fr">barais@irisa.fr</a><BR></p>
+        </div>
+        </div>
 </div>
-
-#### Organisateurs :
-
-- Jalil Boukhobza mailto:boukhobza@univ-brest.fr
-- Yassine HADJADJ-AOUL mailto:yassine.hadjadj-aoul@irisa.fr
-- Olivier Barais mailto:barais@irisa.fr
-
-**Contact** : journeescloud2021@gmail.com
-
+</div>
