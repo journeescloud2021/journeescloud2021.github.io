@@ -63,7 +63,7 @@ Nous demandons aux personnes intéressées de faire parvenir à l’équipe d’
         <div class="card-body">
             <h5 class="card-title">Organisateurs</h5>
         <!--    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>-->
-            <p class="card-text">Jalil Boukhobza <a href="mailto:boukhobza@univ-brest.fr">boukhobza@univ-brest.fr</a><BR>
+            <p class="card-text">Jalil Boukhobza <a href="mailto:jalil.boukhobza@ensta-bretagne.fr">jalil.boukhobza@ensta-bretagne.fr</a><BR>
             Yassine HADJADJ-AOUL <a href="mailto:yassine.hadjadj-aoul@irisa.fr">yassine.hadjadj-aoul@irisa.fr</a><BR>
             Olivier Barais <a href="mailto:barais@irisa.fr">barais@irisa.fr</a><BR></p>
         </div>
