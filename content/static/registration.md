@@ -6,9 +6,9 @@ slug: registration
 backgroundImage: 'url(assets/img/PICT0024.JPG)'
 ---
 
-L'inscription à la conférence est maitenant fermée
+L'inscription à la conférence est disponible [au travers du lien suivant](https://www.eventbrite.fr/e/billets-journees-cloud-2021-191142621727)
 
-**OUVERT DU 26/09/2021 AU 17/11/2021**
+
 
 Nous utiliserons [eventbrite](https://www.eventbrite.fr/) pour l'inscription à ces journées.
 
