@@ -8,7 +8,3 @@ backgroundImage: 'url(assets/img/PICT0024.JPG)'
 
 L'inscription à la conférence est disponible [au travers du lien suivant](https://www.eventbrite.fr/e/billets-journees-cloud-2021-191142621727)
 
-
-
-Nous utiliserons [eventbrite](https://www.eventbrite.fr/) pour l'inscription à ces journées.
-
