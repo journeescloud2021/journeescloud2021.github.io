@@ -2,7 +2,7 @@
 published: true
 title: Journées Cloud 2021
 subTitle: Programme des journées
-slug: program
+slug: program1
 backgroundImage: 'url(assets/img/PICT0024.JPG)'
 ---
 
@@ -45,7 +45,7 @@ backgroundImage: 'url(assets/img/PICT0024.JPG)'
 
 #### Lunch
 
-- 13h30 -- 14h15: **Keynote** - Adlen. Ksentini - Eurecom
+- 13h30 -- 14h15: **Keynote** - route
 - 14h20 -- 15h20: Edge/Cloud continuum
     - *Jean-Marc Menaud*, **The PiSeduce Project**
     - *Ouarnoughi Hamza*, **Accelerating AI at the Edge and offloading it to the Cloud**

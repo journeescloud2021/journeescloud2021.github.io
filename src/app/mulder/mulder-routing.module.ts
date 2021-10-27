@@ -18,6 +18,11 @@ export const ROUTES: Routes = [
         path: "",
         component: mulderContainers.HomeComponent,
     },
+    {
+        path: "program",
+        component: mulderContainers.ProgramDemoComponent,
+    },
+
     // Demo simple component
     /*    {
         path: "about",

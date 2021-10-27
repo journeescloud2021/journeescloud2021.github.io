@@ -19,7 +19,7 @@
         "orderpath" : 3
     },
     {
-        "path": "/s/program",
+        "path": "/program",
         "level1icon": ["fas", "clock"],
         "menupath": "Programme",
         "orderpath" : 4

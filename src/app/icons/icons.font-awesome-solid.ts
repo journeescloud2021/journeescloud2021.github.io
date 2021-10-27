@@ -29,6 +29,7 @@ import {
     faCashRegister,
     faShip,
     faTrain,
+    faStar,
 } from "@fortawesome/free-solid-svg-icons";
 
 export const fontAwesomeSolidIcons = {
@@ -59,4 +60,5 @@ export const fontAwesomeSolidIcons = {
     faCashRegister,
     faShip,
     faTrain,
+    faStar,
 };
