@@ -14,3 +14,10 @@ Nous tentons d'organiser ces journées de manière physique à l'[**ENSTA Bretag
 ## COMMENT VENIR ?
 
 Vous pouvez trouver une documentation pour nous rejoindre sur le site de l'ensta Bretagne https://www.ensta-bretagne.fr/fr/pour-acceder-lensta-bretagne.
+
+## OU SE LOGER ?
+
+Beaucoup d'hotel sont disponibles sur Brest. Voici deux hotels proches de l'ENSTA:
+
+- https://brest-centre.kyriad.com/fr-fr/
+- https://www.abalys.com/
