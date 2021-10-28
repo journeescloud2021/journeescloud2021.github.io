@@ -278,7 +278,7 @@ We designed mck8s to be easy to use by development and operation teams by adopti
 - 12:00 - 13:30 in Amphi : Lunch
 - 13:30 - 14:15 in Amphi : Ivan Meriau's Keynote
 - 14:20 - 15:20 in Amphi : Microservices and performances
-- 15:20 - 15:40 in Amphi : Coffee Break
+- 15:20 - 15:40 in Amphi : Coffee break
 - 15:40 - 17:20 in Amphi : Cloud and storage
 
 ## 2021-11-26
