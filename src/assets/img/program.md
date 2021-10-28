@@ -167,12 +167,15 @@ Integrated Development Environments (IDEs) are indispensable companions to progr
 ## (CoffeeBreak) Opening
 ## (Opening) Welcome session
 
-## (Keynote) Infrastructure Cloud privé embarquée pour le domaine naval militaire
+## (Keynote) Architecture Numérique et émergence de Cloud de défense embarqué : un chantier à engager
 - Christophe Baixas
 
 *abstract*:
-To be announced
-**[Christophe Baixas](https://www.linkedin.com/in/christophe-baixas-4620b41/?)**
+[Vision](/assets/img/navalVision.pdf)<p></p>
+**Bio**
+Christophe BAIXAS, est Ingénieur Télécom (IMT Lille 1998) et a été employé par divers opérateurs et équipementiers en tant qu'expert technique dans le domaine des réseaux. Il a rejoint Naval Group en tant qu'architecte des infrastructures informatique de Systèmes de Combat pour sous-marins SNLE et SNA. Après une solide expérience acquise sur les programmes, il a travaillé au sein du Département R&D de la Division "Systèmes de Mission et de Combat" afin de préparer la future infrastructure informatique appelée ACCESS (Afloat Common Computing Evolutive and Secured System by Naval Group). Ses sujets de recherche incluent l'ingénierie système, l'architecture de cloud privé et la gestion de la complexité pour les systèmes "Enterprise". <BR>
+Il fait désormais partie de la Direction de l'Innovation et des Expertises Techniques (DIT) de Naval Group en tant que "Responsable des Etudes Scientifiques et Techniques" dans le domaine des "Systèmes Numériques". Sa connaissance approfondie des mutations actuellement en cours dans le monde de la défense navale l'amène à prendre une part active dans la démarche de transformation numérique au niveau européen et national.<p></p>
+**[LinkedIn public profile](https://www.linkedin.com/in/christophe-baixas-4620b41/?)**
 
 ## (Keynote) Philipe Merle's Keynote
 - Philipe Merle
@@ -271,7 +274,7 @@ We designed mck8s to be easy to use by development and operation teams by adopti
 ## 2021-11-25
 - 08:30 - 09:00 in Amphi : Opening
 - 09:00 - 09:10 in Amphi : Welcome session
-- 09:10 - 10:00 in Amphi : Infrastructure Cloud privé embarquée pour le domaine naval militaire
+- 09:10 - 10:00 in Amphi : Architecture Numérique et émergence de Cloud de défense embarqué : un chantier à engager
 - 10:00 - 10:40 in Amphi : Ressource Management
 - 10:40 - 11:00 in Amphi : Coffee break
 - 11:00 - 11:45 in Amphi : Philipe Merle's Keynote
