@@ -167,20 +167,22 @@ Integrated Development Environments (IDEs) are indispensable companions to progr
 ## (CoffeeBreak) Opening
 ## (Opening) Welcome session
 
-## (Keynote) Christophe Baixas's Keynote
+## (Keynote) Infrastructure Cloud privé embarquée pour le domaine naval militaire
 - Christophe Baixas
 
 *abstract*:
-Christophe Baixas - *Naval Group* 
-Christophe Baixas, http://www.google.fr
+To be announced
+**[Christophe Baixas](https://www.linkedin.com/in/christophe-baixas-4620b41/?)**
 
 ## (Keynote) Philipe Merle's Keynote
 - Philipe Merle
 
 *abstract*:
-TO be announced
- 
-Philipe Merle, http://www.google.fr
+⚠️TO be announced⚠️<p></p>
+**Bio**: Philippe Merle is senior researcher at Inria since 2002 and is member of the Spirals research team. He was associate professor at
+University of Lille 1, France. He obtained a PhD degree in computer science from University of Lille 1. His research is about software engineering for distributed systems, especially cloud computing, service oriented computing, middleware, model driven engineering,
+and component-based software engineering.<p></p>
+**[Site Web personnel](http://chercheurs.lille.inria.fr/~pmerle/)**
 
 ## (Keynote) Ivan Meriau's Keynote
 - Ivan Meriau
@@ -188,34 +190,37 @@ Philipe Merle, http://www.google.fr
 - Pierre Crégut
 
 *abstract*:
-TO be announced
-Ivan Meriau, David Tardivel, Pierre Crégut - *IRT b<>com*
- 
-Ivan Meriau, http://www.google.fr
+⚠️TO be announced⚠️
+Ivan Meriau, David Tardivel, Pierre Crégut
+[IRT b<>com](https://b-com.com)
 
-## (Keynote) Guillaume Pierre Keynote
+## (Keynote) KubeFed: Automatic Multi-cluster Deployments and Services in Kubernetes
+
 - Guillaume Pierre
 
 *abstract*:
-TO be announced
- 
-Guillaume Pierre, http://www.google.fr
+Learn how Multi-Cluster Kubernetes (mck8s) uses custom Controllers to vastly improve the multi-cluster experience and how you can deploy it. The benefits? Latency-aware scheduling, cross-cluster networking, and improved resilience – greatly simplifying app deployment across multiple clouds. More? It scales Pods and Clusters horizontally, using a custom Horizontal Pod Autoscaler and the Cluster API.<p></p>
+[Site Web](https://elastisys.com/automatic-multi-cluster-deployments-and-services-in-kubernetes/)<p></p>
+**Bio**: Pr Guillaume Pierre is Professor at Univ Rennes 1. He is leading the Myriads research team (INRIA, CNRS, Univ Rennes 1, INSA)
+His research interests span cloud computing, fog computing and large-scale distributed systems. He is the coordinator of the H2020 FogGuru project. He teaches courses mostly related to operating systems, distributed systems and cloud computing.
 
-## (Keynote) Adlen Ksentini's Keynote
+## (Keynote) Zero touch management and orchestration of network slices in 5G and beyond networks
+
 - Adlen. Ksentini
 
 *abstract*:
-TO be announced
-Adlen. Ksentini - Eurecom, http://www.google.fr
+6G systems are expected to serve a massive number of extremely heterogeneous Network Slices that cross multiple technological domains (i.e., RAN, Edge, Cloud, and Core), posing significant challenges to classical centralized management and orchestration approaches in terms of scalability and sustainability. Within this context, distributed and intelligent management and orchestration system is mandatory. This talk presents the challenges related to the management and orchestration of network slices in 5G and beyond mobile networks. Based on these requirements, a hierarchical, distributed, and AI-driven management framework is introduced, featuring a zero-touch service management concept. Finally, two use-case scenarios relaying on the proposed architecture are proposed.<p></p>
+**Bio** Adlen Ksentini is a COMSOC distinguished lecturer. He obtained his Ph.D. degree in computer science from the University of Cergy-Pontoise in 2005, with a dissertation on QoS provisioning in IEEE 802.11-based networks. From 2006 to 2016, he worked at the University of Rennes 1 as an assistant professor. During this period, he was a member of the Dionysos Team with INRIA, Rennes. Since March 2016, he has been working as an assistant professor in the Communication Systems Department of EURECOM. He has been involved in several national and European projects on QoS and QoE support in future wireless, network virtualization, cloud networking, mobile networks, and more recently on Network Slicing and 5G in the context of H2020 projects 5G!Pagoda, 5GTransformer, 5G!Drones and MonB5G. He has co-authored over 120 technical journal and international conference papers. He received the best paper award from IEEE IWCMC 2016, IEEE ICC 2012, and ACM MSWiM 2005. He has been awarded the 2017 IEEE Comsoc Fred W. Ellersick (best IEEE communications Magazine’s paper). Adlen Ksentini has given several tutorials in IEEE international conferences, IEEE Globecom 2015, IEEEE CCNC 2017, IEEE ICC 2017, IEEE/IFIP IM 2017. Adlen Ksentini has been acting as TPC Symposium Chair for IEEE ICC 2016/2017, IEEE GLOBECOM 2017, IEEE Cloudnet 2017 and IEEE 5G Forum 2018. He has been acting as Guest Editor for IEEE Journal of Selected Area on Communication (JSAC) Series on Network Softwerization, IEEE Wireless Communications, IEEE Communications Magazine, and two issues of ComSoc MMTC Letters. He has been on the Technical Program Committees of major IEEE ComSoc, ICC/GLOBECOM, ICME, WCNC, and PIMRC conferences. He acted as the Director of IEEE ComSoc EMEA region and member of the IEEE Comsoc Board of Governor (2019–2020). He is the chair of the IEEE ComSoc Technical Committee on Software (TCS). <p></p>
+**[Site Web personnel](https://www.eurecom.fr/~ksentini/)**
 
 ## (Keynote) Nancy Perrot's Keynote
 - Nancy Perrot
 
 *abstract*:
-TO be announced
-Nancy Perrot - *Orange*, http://www.google.fr
+⚠️TO be announced⚠️<p></p>
+*[Orange](http://www.orange.fr)*
 
-## [TalkSession] Ressource Managment
+## [TalkSession] Ressource Management
 ### Papers
     - Horizontal scaling in cloud using contextual bandits
     - Out of Hypervisor: Case of Intel PML
@@ -266,8 +271,8 @@ Nancy Perrot - *Orange*, http://www.google.fr
 ## 2021-11-25
 - 08:30 - 09:00 in Amphi : Opening
 - 09:00 - 09:10 in Amphi : Welcome session
-- 09:10 - 10:00 in Amphi : Christophe Baixas's Keynote
-- 10:00 - 10:40 in Amphi : Ressource Managment
+- 09:10 - 10:00 in Amphi : Infrastructure Cloud privé embarquée pour le domaine naval militaire
+- 10:00 - 10:40 in Amphi : Ressource Management
 - 10:40 - 11:00 in Amphi : Coffee break
 - 11:00 - 11:45 in Amphi : Philipe Merle's Keynote
 - 12:00 - 13:30 in Amphi : Lunch
@@ -277,12 +282,12 @@ Nancy Perrot - *Orange*, http://www.google.fr
 - 15:40 - 17:20 in Amphi : Cloud and storage
 
 ## 2021-11-26
-- 09:00 - 09:45 in Amphi : Guillaume Pierre Keynote
+- 09:00 - 09:45 in Amphi : KubeFed: Automatic Multi-cluster Deployments and Services in Kubernetes
 - 09:50 - 10:50 in Amphi : Cloud and security
 - 10:50 - 11:10 in Amphi : Coffee break
 - 11:10 - 11:55 in Amphi : Nancy Perrot's Keynote
 - 12:00 - 13:30 in Amphi : Lunch
-- 13:30 - 14:15 in Amphi : Adlen Ksentini's Keynote
+- 13:30 - 14:15 in Amphi : Zero touch management and orchestration of network slices in 5G and beyond networks
 - 14:20 - 15:20 in Amphi : Edge/Cloud continuum
 - 15:20 - 15:40 in Amphi : Coffee break
 - 15:40 - 16:40 in Amphi : Cloud and Network

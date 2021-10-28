@@ -10,10 +10,24 @@ import {
 } from "@angular/core";
 import { DomSanitizer, SafeStyle } from "@angular/platform-browser";
 import { NgbModal } from "@ng-bootstrap/ng-bootstrap";
+import marked from "marked";
 
-// import data from "./data.json";
 import { Day, Event, Paper, SessionGroup, Type } from "./programtype";
 import { evaluate } from "./visitor";
+
+// import data from "./data.json";
+
+marked.setOptions({
+    pedantic: false,
+    gfm: false,
+    headerIds: true,
+    breaks: false,
+    mangle: true,
+    sanitize: false,
+    smartLists: false,
+    smartypants: false,
+    xhtml: false,
+});
 
 @Component({
     selector: "mulder-confprogram",
@@ -58,7 +72,7 @@ export class ProgramComponent implements OnInit, OnChanges {
         httpClient
             .get(
                 // "https://raw.githubusercontent.com/mulder-jamstack/mulder-jamstack.github.io/src/content/agenda/models.md", // Mettre le md dans le repo
-                 "/assets/img/program.md", // Mettre le md
+                "/assets/img/program.md", // Mettre le md
                 httpOptions
             )
             .subscribe((r: any) => {
@@ -132,7 +146,7 @@ export class ProgramComponent implements OnInit, OnChanges {
 
     open(content: TemplateRef<any>) {
         this.modalService
-            .open(content, { ariaLabelledBy: "modal-basic-title" })
+            .open(content, { ariaLabelledBy: "modal-basic-title", size: "lg" })
             .result.then(
                 (result) => {},
                 (reason) => {}
@@ -459,8 +473,8 @@ export class ProgramComponent implements OnInit, OnChanges {
         this.open(ref);
     }
     convertHtml(desc: string) {
-        return desc;
-        //        return converter.makeHtml("**Description**:" + desc);
+        // return desc;
+        return marked("**Description**: " + desc);
     }
     convertHtmlprogram(desc: string) {
         return desc;

@@ -74,7 +74,7 @@
 
                 <!-- Abstract -->
                 <div *ngIf="selectedTalk.abstract" class="abstract">
-                    <strong>Abstract: </strong> {{selectedTalk.abstract}}
+                    <div [innerHTML]="convertHtml(selectedTalk.abstract)"></div>
                 </div>
                 <div *ngIf="selectedTalk.video" class="abstract">
                     <BR><strong>Youtube playlist: </strong> <a [href]="selectedTalk.video" target="_blank">{{selectedTalk.video}}</a>
