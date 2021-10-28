@@ -194,15 +194,15 @@ and component-based software engineering.<p></p>
 Ivan Meriau, David Tardivel, Pierre Crégut
 [IRT b<>com](https://b-com.com)
 
-## (Keynote) KubeFed: Automatic Multi-cluster Deployments and Services in Kubernetes
+## (Keynote) mck8s: An Kubernetes-based orchestration platform for geo-distributed multi-cluster environments
 
 - Guillaume Pierre
 
 *abstract*:
-Learn how Multi-Cluster Kubernetes (mck8s) uses custom Controllers to vastly improve the multi-cluster experience and how you can deploy it. The benefits? Latency-aware scheduling, cross-cluster networking, and improved resilience – greatly simplifying app deployment across multiple clouds. More? It scales Pods and Clusters horizontally, using a custom Horizontal Pod Autoscaler and the Cluster API.<p></p>
-[Site Web](https://elastisys.com/automatic-multi-cluster-deployments-and-services-in-kubernetes/)<p></p>
-**Bio**: Pr Guillaume Pierre is Professor at Univ Rennes 1. He is leading the Myriads research team (INRIA, CNRS, Univ Rennes 1, INSA)
-His research interests span cloud computing, fog computing and large-scale distributed systems. He is the coordinator of the H2020 FogGuru project. He teaches courses mostly related to operating systems, distributed systems and cloud computing.
+Following the adoption of cloud computing, the proliferation of cloud data centers in multiple regions, and the emergence of computing paradigms such as fog computing, there is a need for integrated and efficient management of geodistributed clusters. Geo-distributed deployments suffer from resource fragmentation, as the resources in certain locations are over-allocated while others are under-utilized. Orchestration platforms such as Kubernetes and Kubernetes Federation offer the conceptual models and building blocks that can be used to build integrated solutions that address the resource fragmentation challenge. In this work, we propose mck8s-an orchestration platform for multi-cluster applications on multiple geo-distributed Kubernetes clusters. It offers controllers that automatically place, scale, and burst multi-cluster applications across multiple geo-distributed Kubernetes clusters. mck8s allocates the requested resources to all incoming applications while making efficient use of resources.
+We designed mck8s to be easy to use by development and operation teams by adopting Kubernetes' design principles and manifest files. We evaluated mck8s in a geo-distributed experimental testbed in Grid'5000. Our results show that mck8s balances the resource allocation across multiple clusters and reduces the fraction of pending pods to 6% as opposed to 65% in the case of Kubernetes Federation for the same workload.<p></p>
+**Bio**: Pr Guillaume Pierre is Professor at Univ Rennes 1. He is leading the Myriads research team (INRIA, CNRS, Univ Rennes 1, ENS Rennes, INSA) His research interests span cloud computing, fog computing and large-scale distributed systems. He is the coordinator of the H2020 FogGuru project. He teaches courses mostly related to operating systems, distributed systems and cloud computing.<p></p>
+**[Site Web personnel](http://www.globule.org/~gpierre/)**
 
 ## (Keynote) Zero touch management and orchestration of network slices in 5G and beyond networks
 
@@ -282,7 +282,7 @@ His research interests span cloud computing, fog computing and large-scale distr
 - 15:40 - 17:20 in Amphi : Cloud and storage
 
 ## 2021-11-26
-- 09:00 - 09:45 in Amphi : KubeFed: Automatic Multi-cluster Deployments and Services in Kubernetes
+- 09:00 - 09:45 in Amphi : mck8s: An Kubernetes-based orchestration platform for geo-distributed multi-cluster environments
 - 09:50 - 10:50 in Amphi : Cloud and security
 - 10:50 - 11:10 in Amphi : Coffee break
 - 11:10 - 11:55 in Amphi : Nancy Perrot's Keynote
