@@ -157,6 +157,13 @@ Microservices-based architectures gain more and more attention in industry and a
 *abstract*:
 Integrated Development Environments (IDEs) are indispensable companions to programming languages. They are increasingly turning towards Web-based infrastructure. The rise of a protocol such as the Language Server Protocol (LSP) that standardizes the separation between a language-agnostic IDE, and a language server that provides all language services (\emph{e.g.,} auto completion, compiler…) has allowed the emergence of high quality generic Web components to build the IDE part that runs in the browser. However, all language services require different computing capacities and response times to guarantee a user-friendly experience within the IDE. The monolithic distribution of all language services prevents to leverage on the available execution platforms (e.g., local platform, application server, cloud). In contrast with the current approaches that provide IDEs in the form of a monolithic client-server architecture, we explore in this paper the modularization of all language services to support their individual deployment and dynamic adaptation within an IDE. We evaluate the performance impact of the distribution of the language services across the available execution platforms on four EMF-based languages, and demonstrate the benefit of a custom distribution.
 
+## A multi-technological domains KPIs Monitoring System for Network Slicing in 5G
+- Mohamed Mekki
+- Sagar Arora
+- Adlen Ksentini
+
+*abstract*:
+An efficient and scalable monitoring system is an essential component of any network to monitor and validate the operation of running services and the underlying infrastructure, and 5G is not an exception. The latter is based on the concept of network slicing, where each slice has its network and computing KPIs requirements in addition to the performance of its services KPIs. Yet this new concept presents many challenges for the monitoring process. A major challenge is that a network slice uses resources from different technological domains such as RAN, compute, and network. In addition, the monitoring system needs to be scalable as the network operator is expected to operate multiple parallel network slices on its 5G infrastructure. Finally, multi-tenancy and isolation between network slices are critical and must be enforced. In this presentation, we introduce a novel monitoring platform for 5G and beyond that tackles the above-mentioned challenges. The proposed framework is technological domain agnostic, thanks to a novel data communication protocol. Besides, it natively supports network slicing and features a scalable architecture to handle a high number of running slices in parallel.
 
 # Events
 
@@ -216,12 +223,13 @@ We designed mck8s to be easy to use by development and operation teams by adopti
 **Bio** Adlen Ksentini is a COMSOC distinguished lecturer. He obtained his Ph.D. degree in computer science from the University of Cergy-Pontoise in 2005, with a dissertation on QoS provisioning in IEEE 802.11-based networks. From 2006 to 2016, he worked at the University of Rennes 1 as an assistant professor. During this period, he was a member of the Dionysos Team with INRIA, Rennes. Since March 2016, he has been working as an assistant professor in the Communication Systems Department of EURECOM. He has been involved in several national and European projects on QoS and QoE support in future wireless, network virtualization, cloud networking, mobile networks, and more recently on Network Slicing and 5G in the context of H2020 projects 5G!Pagoda, 5GTransformer, 5G!Drones and MonB5G. He has co-authored over 120 technical journal and international conference papers. He received the best paper award from IEEE IWCMC 2016, IEEE ICC 2012, and ACM MSWiM 2005. He has been awarded the 2017 IEEE Comsoc Fred W. Ellersick (best IEEE communications Magazine’s paper). Adlen Ksentini has given several tutorials in IEEE international conferences, IEEE Globecom 2015, IEEEE CCNC 2017, IEEE ICC 2017, IEEE/IFIP IM 2017. Adlen Ksentini has been acting as TPC Symposium Chair for IEEE ICC 2016/2017, IEEE GLOBECOM 2017, IEEE Cloudnet 2017 and IEEE 5G Forum 2018. He has been acting as Guest Editor for IEEE Journal of Selected Area on Communication (JSAC) Series on Network Softwerization, IEEE Wireless Communications, IEEE Communications Magazine, and two issues of ComSoc MMTC Letters. He has been on the Technical Program Committees of major IEEE ComSoc, ICC/GLOBECOM, ICME, WCNC, and PIMRC conferences. He acted as the Director of IEEE ComSoc EMEA region and member of the IEEE Comsoc Board of Governor (2019–2020). He is the chair of the IEEE ComSoc Technical Committee on Software (TCS). <p></p>
 **[Site Web personnel](https://www.eurecom.fr/~ksentini/)**
 
-## (Keynote) Nancy Perrot's Keynote
+## (Keynote) Some Optimization Challenges of Virtualized Networks
 - Nancy Perrot
 
 *abstract*:
-⚠️TO be announced⚠️<p></p>
-*[Orange](http://www.orange.fr)*
+This talk will focus on recent results on several challenging optimization problems related to slicing for 5G and virtualized networks. Network virtualization poses many challenges for infrastructure and service providers. First, the network architecture must evolve to support the full flexibility required to manage services on virtualized infrastructures. Second, 5G slices must be designed to support end-to-end services. Finally, services must be managed efficiently under a wide variety of service level agreements and while providing high levels of security and availability guarantees. All of these challenges are interrelated and dependent on each other. Therefore, it is crucial to model and understand the structure of global/optimal solutions in order to make strategic decisions for network evolution and to derive some key decision procedures for network management. In this talk, I give some mathematical models associated with these challenges and some recent results obtained using finely tuned combinatorial optimization methods.<p></p>
+**Bio** 
+Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) received her Ph.D. degree in applied mathematics with a specialization in operations research from the University of Bordeaux1. She joined Orange in 2005 to work as a researcher on network optimization. She has supervised several M.Sc. and Ph.D. students. She is currently a member of the Orange expert community Future Networks, the manager of a Research Program on Mathematical Optimization, Models and Algorithms for networks, operations and service efficiency at Orange, and the leader of the ANR project MAESTRO-5G on the management of slices in 5G networks. Her current research interests are related to optimization problems from network virtualization, slicing in 5G networks, and security.
 
 ## [TalkSession] Ressource Management
 ### Papers
@@ -265,8 +273,7 @@ We designed mck8s to be easy to use by development and operation teams by adopti
 - Automating Multi-objective Network Slice Placement with Machine Learning: a Heuristically Assisted Deep Reinforcement Learning solution
 - QoS-aware Network Slicing for LoRaWAN: Towards Edge-to-Network Integration in Beyond 5G and 6G
 - Pythia: Mobility Intelligence Understanding Towards Resource-efficient MEC Systems
-
-
+- A multi-technological domains KPIs Monitoring System for Network Slicing in 5G
 
 
 # Program
@@ -288,9 +295,9 @@ We designed mck8s to be easy to use by development and operation teams by adopti
 - 09:00 - 09:45 in Amphi : mck8s: An Kubernetes-based orchestration platform for geo-distributed multi-cluster environments
 - 09:50 - 10:50 in Amphi : Cloud and security
 - 10:50 - 11:10 in Amphi : Coffee break
-- 11:10 - 11:55 in Amphi : Nancy Perrot's Keynote
+- 11:10 - 11:55 in Amphi : Some Optimization Challenges of Virtualized Networks
 - 12:00 - 13:30 in Amphi : Lunch
 - 13:30 - 14:15 in Amphi : Zero touch management and orchestration of network slices in 5G and beyond networks
 - 14:20 - 15:20 in Amphi : Edge/Cloud continuum
 - 15:20 - 15:40 in Amphi : Coffee break
-- 15:40 - 16:40 in Amphi : Cloud and Network
+- 15:40 - 17:00 in Amphi : Cloud and Network
