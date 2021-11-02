@@ -3,6 +3,7 @@
   "version": "1.2.0",
   "scripts": {
     "build": "npm run ng -- build --prod --build-optimizer=true --statsJson=true",
+    "startng": "npm run ng -- start",
     "build:debug": "npm run ng -- build --prod --source-map --build-optimizer=true --statsJson=true",
     "bundle-report": "webpack-bundle-analyzer dist/mulder/stats-es2015.json",
     "docker:build": "node scripts/docker/docker-build.js",
