@@ -194,7 +194,8 @@ University of Lille 1, France. He obtained a PhD degree in computer science from
 and component-based software engineering.<p></p>
 **[Site Web personnel](http://chercheurs.lille.inria.fr/~pmerle/)**
 
-## (Keynote) Ivan Meriau's Keynote
+## (Keynote) Kanod and Supra: a unified framework for managing kubernetes clusters and their applications
+
 - Ivan Meriau
 - David Tardivel
 - Pierre Crégut
@@ -286,7 +287,7 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 - 10:40 - 11:00 in Amphi : Coffee break
 - 11:00 - 11:45 in Amphi : Philipe Merle's Keynote
 - 12:00 - 13:30 in Amphi : Lunch
-- 13:30 - 14:15 in Amphi : Ivan Meriau's Keynote
+- 13:30 - 14:15 in Amphi : Kanod and Supra: a unified framework for managing kubernetes clusters and their applications
 - 14:20 - 15:20 in Amphi : Microservices and performances
 - 15:20 - 15:40 in Amphi : Coffee break
 - 15:40 - 17:20 in Amphi : Cloud and storage
