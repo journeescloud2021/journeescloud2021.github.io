@@ -184,7 +184,7 @@ Christophe BAIXAS, est Ingénieur Télécom (IMT Lille 1998) et a été employé
 Il fait désormais partie de la Direction de l'Innovation et des Expertises Techniques (DIT) de Naval Group en tant que "Responsable des Etudes Scientifiques et Techniques" dans le domaine des "Systèmes Numériques". Sa connaissance approfondie des mutations actuellement en cours dans le monde de la défense navale l'amène à prendre une part active dans la démarche de transformation numérique au niveau européen et national.<p></p>
 **[LinkedIn public profile](https://www.linkedin.com/in/christophe-baixas-4620b41/?)**
 
-## (Keynote) Philipe Merle's Keynote
+## (Keynote) Infrastructure as Code : état de l'art et enjeux de recherche
 - Philipe Merle
 
 *abstract*:
@@ -233,18 +233,21 @@ This talk will focus on recent results on several challenging optimization probl
 Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) received her Ph.D. degree in applied mathematics with a specialization in operations research from the University of Bordeaux1. She joined Orange in 2005 to work as a researcher on network optimization. She has supervised several M.Sc. and Ph.D. students. She is currently a member of the Orange expert community Future Networks, the manager of a Research Program on Mathematical Optimization, Models and Algorithms for networks, operations and service efficiency at Orange, and the leader of the ANR project MAESTRO-5G on the management of slices in 5G networks. Her current research interests are related to optimization problems from network virtualization, slicing in 5G networks, and security.
 
 ## [TalkSession] Ressource Management
+- Hamza Ouarnoughi
 ### Papers
     - Horizontal scaling in cloud using contextual bandits
     - Out of Hypervisor: Case of Intel PML
 
 ## [TalkSession] Microservices and performances
-### Papers
+- David Tardivel
 
+### Papers
 - Automated performance prediction of microservice applications using simulation
 - Working with logs to detect anomalies in cloud platforms
 - Micro-Services IDE: Challenges for a modular and distributed language services implementation
 
 ## [TalkSession] Cloud and storage
+- Shadi Ibrahim 
 
 ### Papers
 
@@ -255,6 +258,7 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 - Supporting time in the graph-of-objects platform Thing'in
 
 ## [TalkSession] Cloud and security
+- David Herviou
 ### Papers
 
 - Externalisation Sécurisée vers un environnement cloud computing basée sur la génétique humaine
@@ -262,6 +266,7 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 - Impacts of Service Decomposition Models on Security Attributes: A Case Study with 5G Network Repository Function
 
 ## [TalkSession] Edge/Cloud continuum
+- Emmanuel Lavinal
 ### Papers
 
 - The PiSeduce Project
@@ -269,6 +274,7 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 - Geo-Distribute Cloud Applications at the Edge
 
 ## [TalkSession] Cloud and Network
+- David Espès
 ### Papers
 
 - Automating Multi-objective Network Slice Placement with Machine Learning: a Heuristically Assisted Deep Reinforcement Learning solution
@@ -285,7 +291,7 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 - 09:10 - 10:00 in Amphi : Architecture Numérique et émergence de Cloud de défense embarqué : un chantier à engager
 - 10:00 - 10:40 in Amphi : Ressource Management
 - 10:40 - 11:00 in Amphi : Coffee break
-- 11:00 - 11:45 in Amphi : Philipe Merle's Keynote
+- 11:00 - 11:45 in Amphi : Infrastructure as Code : état de l'art et enjeux de recherche
 - 12:00 - 13:30 in Amphi : Lunch
 - 13:30 - 14:15 in Amphi : Kanod and Supra: a unified framework for managing kubernetes clusters and their applications
 - 14:20 - 15:20 in Amphi : Microservices and performances

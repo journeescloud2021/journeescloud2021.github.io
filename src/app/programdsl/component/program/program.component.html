@@ -34,8 +34,12 @@
               </button>
             </div>
             <div class="modal-body">
-                <div *ngIf="selectedTalk?.organizers?.length > 0">
-                    <strong>Organizers: </strong>
+                <div *ngIf="selectedTalk?.organizers?.length > 0 && selectedTalk.type=='Keynote'">
+                    <strong>Speaker: </strong>
+                    <span *ngFor="let organizer of selectedTalk?.organizers; let i=index">{{i > 0 ? ", " : ""}}<a *ngIf="organizer.email" [href]="getMailTo(organizer.email)">{{organizer.name}}</a><span *ngIf="!organizer.email">{{organizer.name}}</span></span>
+                </div>
+                <div *ngIf="selectedTalk?.organizers?.length > 0 && selectedTalk.type!=='Keynote'">
+                    <strong>Session chair: </strong>
                     <span *ngFor="let organizer of selectedTalk?.organizers; let i=index">{{i > 0 ? ", " : ""}}<a *ngIf="organizer.email" [href]="getMailTo(organizer.email)">{{organizer.name}}</a><span *ngIf="!organizer.email">{{organizer.name}}</span></span>
                 </div>
 
