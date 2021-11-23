@@ -188,7 +188,7 @@ Il fait désormais partie de la Direction de l'Innovation et des Expertises Tech
 - Philipe Merle
 
 *abstract*:
-⚠️TO be announced⚠️<p></p>
+Le paradigme Infrastructure as Code (IaC) permet de programmer / automatiser le cycle de vie des infrastructures et applications distribuées incluant le provisionnement de ressources physiques et/ou virtuelles, la configuration de ces ressources, l'installation de logiciels applicatifs, le démarrage de ces logiciels, ainsi que toute procédure de mise à jour du système comme par exemple la reconfiguration d'une ressource, le changement de version d'un logiciel, la mise à l'échelle et l'élasticité des infrastructures et des applications. Dans un premier temps, nous introduisons le contexte motivant l'Infrastructure as Code tels que le réseau logiciel de bout en bout (SDN), la virtualisation des fonctions réseaux (NFV), l'émergence des standards ETSI NFV et de plates-formes telles que ONAP pour l'orchestration, la gestion et l'automatisation du cycle de vie des services à la périphèrie du réseau (Edge Computing). Dans un second temps, nous visitons par l'exemple quelques uns des langages IaC couramment mises en oeuvre tels que Bash, Ansible, Heat, Terraform, TOSCA en mettant en lumière leurs avantages et inconvénients. Dans un dernier temps, nous présentons quelques enjeux de recherche pour un IaC++, à savoir des questions de formalisation des langages IaC, de modélisation des configurations IaC, de vérification et d'analyse des configurations IaC et orchestration fiable, efficace et à grande échelle. <p></p>
 **Bio**: Philippe Merle is senior researcher at Inria since 2002 and is member of the Spirals research team. He was associate professor at
 University of Lille 1, France. He obtained a PhD degree in computer science from University of Lille 1. His research is about software engineering for distributed systems, especially cloud computing, service oriented computing, middleware, model driven engineering,
 and component-based software engineering.<p></p>
@@ -196,13 +196,14 @@ and component-based software engineering.<p></p>
 
 ## (Keynote) Kanod and Supra: a unified framework for managing kubernetes clusters and their applications
 
-- Ivan Meriau
 - David Tardivel
+- Ivan Meriau
 - Pierre Crégut
 
 *abstract*:
-⚠️TO be announced⚠️
-Ivan Meriau, David Tardivel, Pierre Crégut
+The aim of b<>com project Supra is to develop a future-proof and sovereign private cloud stack for Telco, AI and e-Health applications on bare metal infrastructure; It relies on Kanod, a new open source Kubernetes installer developped by Orange innovation, and declarative descriptions, immutable infrastructures, git-ops management.
+This presentation will first describe the architecture of Kanod and how it uses the git-ops approach to control the life-cycle of clusters. Then, it will present Supra project, which extend declarative description to the whole infrastructure and the deployment of services. ​<p></p>
+**Bio**: David Tardivel  est responsable des activités Cloud Computing chez b-com, dans la Direction des Opérations (DOP). Il a pour mission principale la transformation cloud de l’IRT et l’accompagnement des projets de recherche vers la migration de leurs composants technos vers le cloud. Il est également le responsable technique du projet SUPRA porté par DOP.
 [IRT b<>com](https://b-com.com)
 
 ## (Keynote) mck8s: An Kubernetes-based orchestration platform for geo-distributed multi-cluster environments
