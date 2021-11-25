@@ -58,9 +58,9 @@ La fédération de Clouds permet d'étendre de manière transparente les ressour
 *abstract*:
 Processing and storage requirements for next generation Autonomous Driving (AD) will be important and will exceed the in-board capacity of the vehicle. A multi-level framework for AD tasks will be able to augment the computation and storage power by offloading complex applications from the constrained embedded platforms to fog and cloud computing nodes. Processing and memory capacities of these higher levels of the hierarchy may provide an effective way to implement complex AD functionalities. Our goal is to come up with a task-mapping framework where decisions will be made at different levels of the framework depending on time sensitivity, available resources, energy constraints, and accuracy requirements. We propose a 3-level architecture along with a runtime policy to efficiently manage heterogeneous Hardware (HW)/Software (SW) resources for AD applications used in Intelligent Transport System (ITS). The 3 levels are: Edge level which corresponds to HW/SW resources within the vehicle, Fog level which corresponds to HW/SW resources available in the road infrastructure and finallyCloud level which provides high performance computing and storage servers and capabilities. The presentation will give an overview of the current and the future work on the proposed framework.
 
-## IoT Data Replication and Consistency Management in Fog Computing NAAS
+## IoT Data Replication and Consistency Management in Fog Computing
 
-- Mohammed Islam
+- NAAS Mohammed Islam
 - LEMARCHAND Laurent
 - RAIPIN Philippe
 - BOUKHOBZA Jalil
@@ -264,7 +264,7 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 ### Papers
 
 - StorNIR: une stratégie multi-objectifs de placement de répliques  pour un Cloud fédéré
-- IoT Data Replication and Consistency Management in Fog Computing NAAS
+- IoT Data Replication and Consistency Management in Fog Computing
 - Quand les données IoT rencontrent le streaming multimédia dans le Fog
 - Virtual Disk Snapshot Management at Scale
 - Supporting time in the graph-of-objects platform Thing'in
