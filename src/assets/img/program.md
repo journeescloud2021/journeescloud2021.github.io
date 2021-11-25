@@ -174,8 +174,14 @@ An efficient and scalable monitoring system is an essential component of any net
 ## (CoffeeBreak) Opening
 
 ## (Reception) Visite privée et guidée du musée 70.8
+*abstract*:
+[27 Rue de Pontaniou, 29200 Brest](https://goo.gl/maps/2EHPtXKyh68i5uzb9)
+<a href="https://www.70point8.com/" target="_blank"><img src="https://www.70point8.com/wp-content/uploads/2021/03/logo-sticky.png"></img></a>
 
 ## (Reception) Diner à la Fabrik
+*abstract*:
+[25 Rue de Pontaniou, 29200 Brest](https://g.page/fabrik1801?share)<p></p>
+<a href="https://fabrik1801.bzh/" target="_blank"><img src="https://media-cdn.tripadvisor.com/media/photo-s/16/17/48/70/tankee-sur-les-hauteurs.jpg"></img></a>
 
 ## (Opening) Welcome session
 

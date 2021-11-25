@@ -49,7 +49,7 @@ export class ProgramComponent implements OnInit, OnChanges {
         "Opening",
         "TalkSession",
     ];
-    hiddenModalsAndStars = ["Lunch", "CoffeeBreak", "Reception"];
+    hiddenModalsAndStars = ["Lunch", "CoffeeBreak"];
     data: Day[] = [];
     showFavorites = false;
     favoriteTalks: any = {};
