@@ -264,7 +264,7 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 ### Papers
 
 - StorNIR: une stratégie multi-objectifs de placement de répliques  pour un Cloud fédéré
-- IoT Data Replication and Consistency Management in Fog Computing
+- IoT Data Replication and Consistency Management in Fog Computing NAAS
 - Quand les données IoT rencontrent le streaming multimédia dans le Fog
 - Virtual Disk Snapshot Management at Scale
 - Supporting time in the graph-of-objects platform Thing'in
