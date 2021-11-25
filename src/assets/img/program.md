@@ -172,6 +172,11 @@ An efficient and scalable monitoring system is an essential component of any net
 ## (CoffeeBreak) Lunch
 
 ## (CoffeeBreak) Opening
+
+## (Reception) Visite privée et guidée du musée 70.8
+
+## (Reception) Diner à la Fabrik
+
 ## (Opening) Welcome session
 
 ## (Keynote) Architecture Numérique et émergence de Cloud de défense embarqué : un chantier à engager
@@ -248,7 +253,7 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 - Micro-Services IDE: Challenges for a modular and distributed language services implementation
 
 ## [TalkSession] Cloud and storage
-- Shadi Ibrahim 
+- Olivier Barais
 
 ### Papers
 
@@ -298,6 +303,8 @@ Nancy Perrot ([nancy.perrot@orange.com](mailto:nancy.perrot@orange.com)) receive
 - 14:20 - 15:20 in Amphi : Microservices and performances
 - 15:20 - 15:40 in Amphi : Coffee break
 - 15:40 - 17:20 in Amphi : Cloud and storage
+- 18:30 - 19:30 in Amphi : Visite privée et guidée du musée 70.8
+- 20:00 - 22:00 in Amphi : Diner à la Fabrik
 
 ## 2021-11-26
 - 09:00 - 09:45 in Amphi : mck8s: An Kubernetes-based orchestration platform for geo-distributed multi-cluster environments
