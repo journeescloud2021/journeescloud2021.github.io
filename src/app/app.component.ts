@@ -9,7 +9,7 @@ import { filter } from "rxjs/operators";
     styleUrls: ["./app.component.scss"],
 })
 export class AppComponent {
-    title = "Journées CLoud 2021";
+    title = "Journées Cloud 2021";
     constructor(public router: Router, private titleService: Title) {
         this.router.events
             .pipe(filter((event) => event instanceof ChildActivationEnd))
@@ -19,7 +19,7 @@ export class AppComponent {
                     snapshot = snapshot.firstChild;
                 }
                 this.titleService.setTitle(
-                    snapshot.data.title || "Journées CLoud 2021"
+                    snapshot.data.title || "Journées Cloud 2021"
                 );
             });
     }
