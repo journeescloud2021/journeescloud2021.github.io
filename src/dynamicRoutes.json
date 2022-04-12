@@ -14,8 +14,8 @@
     },
     {
         "path": "/s/videos",
-        "level1icon": ["fas", "video"],
-        "menupath": "Videos",
+        "level1icon": ["fas", "chalkboard-teacher"],
+        "menupath": "Vidéos",
         "orderpath" : 3
     },
     {
